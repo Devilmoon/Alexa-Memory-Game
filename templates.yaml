@@ -1,0 +1,7 @@
+welcome: Benvenuto al gioco della memoria. Dirò dei numeri che dovrai ripetere al contario. Puoi scegliere il livello di difficoltà tra facile, medio o difficile. A quale livello vuoi giocare?
+
+round: Puoi ripetere i numeri {{ numbers|join(", ") }} al contrario?
+
+win: Bravissimo!
+
+lose: Mi dispiace, la risposta è sbagliata.
